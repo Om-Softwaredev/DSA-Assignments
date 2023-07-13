@@ -35,7 +35,7 @@ public class Question04 {
 	    return newNumber;
 	}
 	  public static void main(String[] args) {
-	        int [] arr = {1,2,3}; 
+	        int [] arr = {4,3,2,1}; 
 	        int[]ans=plusOne(arr); 
 	        System.out.println(Arrays.toString(ans));
 	  }
